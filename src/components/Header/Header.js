@@ -4,9 +4,11 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-            <Link to="/">Home</Link>
-            <Link to='/login'>Login</Link>
+        <div className='header'>
+            <nav>
+                <Link to="/">Home</Link>
+                <Link to='/login'>Login</Link>
+            </nav>
         </div>
     );
 };

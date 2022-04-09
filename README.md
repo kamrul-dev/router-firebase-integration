@@ -3,6 +3,7 @@
 
 ## React Firebase Hooks library : https://github.com/CSFrequency/react-firebase-hooks
 
+## React Router Authentication: https://reactrouter.com/docs/en/v6/examples/auth
 
 
 

@@ -2,7 +2,6 @@ import { getAuth, signOut } from 'firebase/auth';
 import React from 'react';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { Link } from 'react-router-dom';
-import useFirebase from '../../hooks/useFirebase';
 import './Header.css'
 
 const auth = getAuth()
